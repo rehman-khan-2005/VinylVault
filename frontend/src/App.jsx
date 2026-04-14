@@ -32,7 +32,7 @@ function App() {
         <nav className="navbar">
           <Link to="/" className="nav-logo"><span className="logo-icon">◉</span> VinylVault</Link>
           <div className="nav-links">
-            <Link to="/">Search Discogs</Link>
+            <Link to="/">Search Database</Link>
             {user && <Link to="/collection">My Collection</Link>}
             <Link to="/marketplace">Marketplace</Link>
             {user && <Link to="/analytics">Analytics</Link>}

@@ -221,7 +221,7 @@ function Search() {
   return (
     <div>
       <div className="page-header">
-        <h1>Search Discogs</h1>
+        <h1>Search Database</h1>
         <p>Find any record in the world's largest music database — search by keyword, genre, year, or format</p>
       </div>
 
